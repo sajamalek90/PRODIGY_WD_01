@@ -1,4 +1,4 @@
-# 🚀 Task 01 Completed: Interactive Responsive Landing Page
+# 🚀 Task 01: Interactive Responsive Landing Page
 
 
 ## 📋 Project Overview
