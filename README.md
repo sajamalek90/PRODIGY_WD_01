@@ -66,6 +66,7 @@ This project significantly enhanced my understanding of:
 ## 📊 Best Practices Applied
 
 ✨ Clean, semantic HTML structure
+
 ✨ CSS custom properties for maintainable theming
 ✨ BEM-inspired naming conventions
 ✨ Smooth 60fps animations
