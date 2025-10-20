@@ -1,6 +1,5 @@
 # 🚀 Task 01: Interactive Responsive Landing Page
 
-
 ## 📋 Project Overview
 Created a fully responsive landing page featuring an interactive navigation menu that dynamically changes style based on user interactions and scroll behavior.
 
